@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_addmarkers" type="id" />
+    <item name="maptypeHYBRID" type="id" />
+    <item name="maptypeNONE" type="id" />
+    <item name="maptypeNORMAL" type="id" />
+    <item name="maptypeSATELLITE" type="id" />
+    <item name="maptypeTERRAIN" type="id" />
+    <item name="menu_legalnotices" type="id" />
+    <item name="menu_about" type="id" />
+</resources>
